@@ -1,0 +1,10 @@
+/test.py
+/books_data.txt
+/notebooks/books_data.txt
+/notebooks/HW*
+
+# These patterns are included in ~/.config/git/ignore:
+# /.venv/
+# __pycache__/
+# .pytest_cache/
+# .ipynb_checkpoints/
